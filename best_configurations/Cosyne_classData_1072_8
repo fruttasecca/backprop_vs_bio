@@ -1,0 +1,1 @@
+{'seq_len': '4', 'mutation_prob': '0.05', 'task': 'classData', 'population_size': '10', 'model_parameters': '1212', 'linear_inc': 'None', 'dataset_size': '80000', 'children': '8', 'algorithm': 'Cosyne', 'num_classses': '2', 'IDCT_from': '1072', 'gamma': '0.08090198044277244', 'total_batches': '2000', 'batch_size': '40', 'seed': '1337'}

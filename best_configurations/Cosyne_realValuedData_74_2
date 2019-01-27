@@ -1,0 +1,1 @@
+{'seq_len': 1, 'mutation_prob': '0.02', 'task': 'realValuedData', 'population_size': '16', 'model_parameters': '98', 'batch_size': '40', 'dimension': '8', 'dataset_size': '80000', 'children': '10', 'algorithm': 'Cosyne', 'num_classses': 1, 'IDCT_from': '74', 'gamma': '0.09437078424067916', 'total_batches': '2000', 'seed': '1337'}

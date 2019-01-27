@@ -1,0 +1,1 @@
+{'crossover_CR': '0.3', 'seq_len': '2', 'task': 'classData', 'population_size': '7', 'scale_factor': '1.2', 'batch_size': '40', 'num_classses': '2', 'mutation_type': 'curtobest1', 'dataset_size': '80000', 'algorithm': 'Differential', 'model_parameters': '1212', 'IDCT_from': '1060', 'total_batches': '2000', 'linear_inc': 'None', 'seed': '1337'}

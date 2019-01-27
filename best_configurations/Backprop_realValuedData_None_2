@@ -1,0 +1,1 @@
+{'seq_len': 1, 'lr': '0.013124550088123924', 'dataset_size': '80000', 'model_parameters': '98', 'batch_size': '40', 'task': 'realValuedData', 'dimension': '8', 'algorithm': 'Backprop', 'num_classses': 1, 'IDCT_from': 'None', 'total_batches': '2000', 'seed': '1337'}

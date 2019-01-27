@@ -1,0 +1,1 @@
+{'crossover_CR': '0.02', 'seq_len': 1, 'task': 'realValuedData', 'population_size': '19', 'model_parameters': '98', 'batch_size': '40', 'dimension': '8', 'num_classses': 1, 'mutation_type': 'best2', 'dataset_size': '80000', 'algorithm': 'Differential', 'scale_factor': '0.8', 'IDCT_from': 'None', 'total_batches': '2000', 'seed': '1337'}

@@ -1,0 +1,1 @@
+{'seq_len': '3', 'task': 'classData', 'dataset_size': '80000', 'num_classses': '2', 'batch_size': '40', 'lr': '0.14292251338574002', 'algorithm': 'Backprop', 'model_parameters': '176', 'IDCT_from': 'None', 'total_batches': '2000', 'linear_inc': 'None', 'seed': '1337'}
